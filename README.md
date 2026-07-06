@@ -15,24 +15,11 @@
 
 ---
 
-## 📂 主要项目
+## 🌟 在做什么
 
-| 项目 | ⭐ | 简介 |
-|------|:---:|------|
-| [tang](https://github.com/JUJING-DEEP/tang) | 4 | 唐朝价值投资思想库 · Claude Code Skill |
-| [ai-berkshire](https://github.com/JUJING-DEEP/ai-berkshire) | 0 | AI 时代的伯克希尔：巴菲特·芒格·段永平·李录四大师方法论 + 多 Agent 并行研究 |
-| [nuwa-skill](https://github.com/JUJING-DEEP/nuwa-skill) | 1 | 蒸馏任何人的思维方式，心智模型 · 决策启发式 · 表达 DNA |
-| [huashu-design](https://github.com/JUJING-DEEP/huashu-design) | 1 | HTML 原生高保真设计 Skill for Claude Code |
-| [ai-video-workbench](https://github.com/JUJING-DEEP/ai-video-workbench) | 1 | AI 视频制作工作台：分镜 + 素材管理 |
-| [JujingGithub](https://github.com/JUJING-DEEP/JujingGithub) | 1 | 个人 AI Agent & 实用开发项目集合 |
-
----
-
-## 🌟 正在探索
-
-- 📈 用 AI + 价值投资框架做研究
-- 🎬 AI 视频生成 & 字幕自动化
-- 🧠 蒸馏牛人思维方式，建自己的"智囊团"
+- 📈 用 AI + 价值投资框架做研究（巴菲特 · 段永平 · 唐朝）
+- 🎬 用 AI 工具做视频（脚本 · 配音 · 字幕自动化）
+- 🧠 探索 AI 编程，用 Vibe Coding 从 0 到 1 做产品
 - 🏋️ 健身 & 📚 读书，持续输入
 
 ---
@@ -44,4 +31,4 @@
 
 ---
 
-*📌 Profile 持续更新中...*
+*📌 正在路上，持续更新...*
